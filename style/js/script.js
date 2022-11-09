@@ -4,7 +4,7 @@ function init() {
       var input = document.getElementById('entryinput').value;
       var output = document.getElementById('textoutput');
       output.innerHTML = input;
-      alert('Skyler Martin: ' + input);
+      alert('Pedro Espinoza: ' + input);
     }
   
     var vbutton = document.getElementById('entrybutton');
